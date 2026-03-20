@@ -1,0 +1,15 @@
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mazegen"
+version = "1.0.0"
+description = "A maze generator library for the 42 a-maze-ing project"
+requires-python = ">=3.10"
+authors = [
+    {name = "afretta-"},
+    {name = "leodum"}
+]
+dependencies = []
